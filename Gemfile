@@ -113,6 +113,7 @@
 ###COPIED FROM https://github.com/mhartl/rails_tutorial_4th_edition_gemfiles/blob/master/toy_app/Gemfile
 
 source 'https://rubygems.org'
+ruby '2.5.5'
 
 gem 'rails',        '5.1.6'
 gem 'puma',         '3.9.1'
